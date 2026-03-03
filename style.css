@@ -142,3 +142,43 @@
   font-weight: 800;
   color: #1f2937;
 }
+
+.cta-container {
+  padding: 80px 15%;
+  background-color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+}
+
+.cta-box {
+  background-color: #3882F6;
+  width: 100%;
+  padding: 40px 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #FFFFFF;
+  border-radius: 8px;
+}
+
+.cta-text h3 {
+  font-size: 24px;
+  font-weight: 800;
+  margin-bottom: 5px;
+}
+
+.cta-text p {
+  font-size: 15px;
+  color: #F9FAF8;
+}
+
+.signUp-footer-btn {
+  padding: 8px 30px;
+  border-radius: 8px;
+  background-color: transparent;
+  color: #FFFFFF;
+  border: 2px solid #FFFFFF;
+  font-weight:  bold;
+  font-size: 13px;
+  cursor: pointer;
+}
